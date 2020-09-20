@@ -8,4 +8,4 @@ KNN Image Classifier from scratch for MNIST dataset. Recognises hand written num
 |----------|-------|
 | Runtime  | 11.6s |
 
-* On Tesla T4 GPU
+As observed on On Tesla T4 GPU
