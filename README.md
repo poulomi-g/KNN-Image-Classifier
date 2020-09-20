@@ -7,3 +7,5 @@ KNN Image Classifier from scratch for MNIST dataset. Recognises hand written num
 | Accuracy | 96%   |   
 |----------|-------|
 | Runtime  | 11.6s |
+
+* On Tesla T4 GPU
